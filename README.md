@@ -26,7 +26,7 @@
 
 ### 📈 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gera1311&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gera1311&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gera1311&theme=dark&utcOffset=8)
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=gera1311&show_icons=true&theme=tokyonight" height="180px"/> -->
 
