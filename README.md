@@ -3,7 +3,7 @@
 ### 💻 Python Backend Developer  
 
 <!-- ![Profile Banner](link) -->
-
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gera1311&theme=dark)
 ---
 
 ### 💡 About Me  
@@ -26,7 +26,8 @@
 
 ### 📈 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gera1311&show_icons=true&theme=tokyonight" height="180px"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=gera1311&show_icons=true&theme=tokyonight" height="180px"/> -->
+
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=gera1311&theme=tokyonight" height="180px"/> -->
 </div>
 
