@@ -20,7 +20,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -29,7 +28,7 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gera1311&theme=dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gera1311&theme=dark&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gera1311&theme=dark&utcOffset=3" />
 </p>
 
 ---
