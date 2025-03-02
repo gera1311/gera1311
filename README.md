@@ -1,8 +1,9 @@
+<div align="center" style="font-size: 24px;">
+🌟 Hi there! 👋
+<br> 
+🚀 I'm German Berezovskiy
+</div>
 <p align="center">
-🌟 Hi there! 👋 
-<br>
-🚀 I'm German Berezovskiy 
-</br>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Backend+Developer;Blockchain+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
